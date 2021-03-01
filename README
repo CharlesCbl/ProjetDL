@@ -1,0 +1,4 @@
+Download dataset here : https://www.kaggle.com/ikarus777/best-artworks-of-all-time
+Put the dataset in a folder call "images" inside the "images" folder
+Run renamer.py (the ü character in Dürer causes problems)
+Run Projet2.py to train the model
